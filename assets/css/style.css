@@ -273,6 +273,7 @@ html{
 
 	.pageContainer{
 		width: 600px;
+		margin: 0 auto;
 	}
 
 	.portfolio{
@@ -298,41 +299,41 @@ html{
 @media (max-width: 640px) {
 
 	.footer{
-		width: 400px;
+		width: 320px;
 	}
 	
 	.header1{
-		width: 400px;
+		width: 320px;
 		margin-left:0px;
 		clear:both;
 		text-align:center;
 	}
 
 	.headerBar{
-		width: 400px;
+		width: 320px;
 	}
 
 	.leftSection{
-		width:380px;
+		width:300px;
 		margin-left:10px;	
 	}
 	
 	.nav{
 		margin-right:0px;
 		text-align:center;
-		width:380px;
+		width:300px;
 		clear:both;
 	}
 
 	.pageContainer{
-		width: 400px;
+		width: 320px;
 	}
 	.portfolio{
-		width:300px;
+		width:260px;
 	}
 
 	.portfolioElement{
-		margin: 00px 30px 0px 30px;
+		margin: 00px 30px 0px 10px;
 	}
 
 	.profilePic{
@@ -342,7 +343,7 @@ html{
 	}
 		
 	.rightSection{
-		width: 380px;
+		width: 300px;
 		margin:10px 10px 100px 10px;
 	}
 }
